@@ -14,7 +14,7 @@ while (k <= N)
 
     if(k != N)
     {
-    Console.Write(", ");
+        Console.Write(", ");
     }
     k++;
 }
